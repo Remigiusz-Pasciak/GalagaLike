@@ -1,0 +1,4 @@
+gracz1 30
+gracz2 20
+gracz3 10
+gracz4 0
